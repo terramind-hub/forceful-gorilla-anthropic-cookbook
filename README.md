@@ -1,6 +1,6 @@
 # Anthropic Cookbook
 
-The Anthropic Cookbook provides code and guides designed to help developers build with Claude, offering copy-able code snippets that you can easily integrate into your own projects.
+The Anthropic provides code and guides designed to help developers build with Claude, offering copy-able code snippets that you can easily integrate into your own projects.
 
 ## Prerequisites
 
